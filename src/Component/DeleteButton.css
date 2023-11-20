@@ -1,0 +1,13 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff6666;
+  color: white;
+  border-radius: 25px;
+  font-size: small;
+  cursor: pointer;
+  padding: 10px;
+  flex: 2 0 auto;
+  width: 20vh;
+}

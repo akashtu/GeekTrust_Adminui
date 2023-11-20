@@ -1,0 +1,60 @@
+.navDesign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-left: 5rem;
+}
+.paginationDesign {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  width: 750px;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 2;
+}
+.iconsDesign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  background: black;
+  color: white;
+  font: 20px;
+}
+.iconsDesign:hover {
+  cursor: pointer;
+}
+.selectedNumber {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  background: white;
+  color: #1e90ff;
+  border: 1px solid #1e90ff;
+  font: 20px;
+}
+.hoverNumber {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  background: #1e90ff;
+  color: white;
+  font: 20px;
+}
+.hoverNumber:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.editButton {
+  cursor: pointer;
+}
+.deleteButton {
+  cursor: pointer;
+}
+
+.deleteButton:hover {
+  color: red;
+}

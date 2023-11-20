@@ -1,0 +1,47 @@
+.tableStyle {
+  border-collapse: collapse;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.tableStyle thead tr {
+  text-align: left;
+  font-weight: 800;
+}
+
+.tableStyle tbody tr {
+  text-align: left;
+  font-weight: 300;
+}
+
+.tableStyle tr {
+  border-bottom: 1px solid #cccccc;
+}
+
+.tableStyle th,
+.tableStyle td {
+  padding: 12px 15px;
+}
+.checkboxColumn {
+  width: 200px;
+}
+.tableStyle th {
+  width: 100px;
+}
+
+.doneButton {
+  color: green;
+}
+.cancelButton {
+  color: red;
+}
+.selectRowDesign {
+  background-color: gray;
+}
+.doneButton {
+  cursor: pointer;
+}
+.cancelButton {
+  cursor: pointer;
+}
